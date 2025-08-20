@@ -1,0 +1,23 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Python caches & virtual env
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep the repo small; raw/interim/processed can be large)
+data/raw/
+data/interim/
+data/processed/
+
+# Models & artifacts (large, can be regenerated)
+models/
+*.joblib
+*.pkl
