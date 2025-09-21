@@ -1,4 +1,4 @@
-# CitySense: The Python Data Analysis + AI Bible (End-to-End Project)
+# CitySense: The Python Data Analysis + AI  (End-to-End Project)
 
 **CitySense** is a complete end-to-end data analysis and machine learning project.  
 It predicts and explains **daily NYC 311 complaint volume** using weather, air quality, transit ridership, and holidays.  
